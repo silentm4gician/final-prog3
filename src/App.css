@@ -1,0 +1,136 @@
+body
+{
+    background-color: rgb(64, 0, 70);
+}
+
+.contenedor
+{
+    display: flex;
+    flex-wrap: wrap;
+    height: 400px;
+    align-content: space-between;
+}
+
+.container
+{
+    padding: 2px 16px;
+    justify-content: space-between;
+    text-align: center;
+    align-content: center;
+    float: left;
+    width: 350px;
+    inline-size: 20%;
+    margin-left: 2%;
+}
+
+.card
+{
+    width: 100%;
+    box-shadow: 0 4px 8px 0 rgba(166, 3, 141, 0.652);
+    transition: 0.3s;
+    color: aquamarine;
+    margin: 5px;
+    padding: 15px;
+    background-color:rgb(93, 4, 75);
+    border-radius: 15px;
+}
+
+.card:hover
+{
+    box-shadow: 0 10px 16px 0 rgba(255, 0, 217, 0.959);
+}
+
+.bar
+{
+    margin-left: 55%;
+    padding: 4px;
+    display: flex;
+    justify-content: space-between;
+    color: aqua;
+}
+
+li
+{
+    width: 15%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+    text-align: center;
+    margin: 15px;
+    padding: 3px;
+    border: 1px solid aqua;
+    color: aquamarine;
+    border-radius: 5px;
+}
+
+li:hover
+{
+    color: rgba(255, 51, 224, 0.541)
+}
+
+.active
+{
+    color: aqua;
+}
+
+.notA
+{
+    color: rgb(115, 115, 115);
+}
+
+.input
+{
+    color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 3px;
+
+}
+
+.select
+{
+    margin: 50px;
+}
+
+.filter
+{
+    padding: 4px;
+}
+
+.blue
+{
+    color: aqua;
+    font-family:monospace;
+    margin-left: 40px;
+}
+
+h2
+{
+    text-align: left;
+    margin-left: 40px;
+    color: aqua;
+}
+
+.cajaFiltro
+{
+    margin-bottom: 150px;
+}
+
+.sep
+{
+    margin-left: 20%;
+    color: rgba(127, 255, 212, 0.705);
+}
+
+button
+{
+    margin: 2px;
+    border-radius: 5px;
+    color: rgb(208, 0, 208);
+}
+
+button:hover
+{
+    color: rgb(1, 222, 222);
+    box-shadow:0 2px 3px 0 rgb(1, 222, 222);
+}

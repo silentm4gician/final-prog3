@@ -1,0 +1,60 @@
+{
+  "cards": [
+    {
+      "id": 2,
+      "name": "Dark Magician",
+      "img": "https://cdn.shopify.com/s/files/1/0606/5494/4498/products/e34a7db0-8d0c-5577-842f-137bceeda036_800x.png?v=1674070602",
+      "rarity": "Ultra Rare",
+      "price": "0.17"
+    },
+    {
+      "id": 4,
+      "name": "Spellbook of Wisdom",
+      "img": "https://http2.mlstatic.com/D_NQ_NP_818012-MLA30500902376_052019-O.webp",
+      "rarity": "Ultra Rare",
+      "price": "0,15"
+    },
+    {
+      "id": 5,
+      "name": "Ojama King",
+      "img": "https://cdn.shopify.com/s/files/1/0606/5494/4498/products/88c64364-46a5-5ca1-93ef-a3850b5b11e2_4297e2ea-3030-4278-a770-c4153fd55d56_800x.jpg?v=1675958601",
+      "rarity": "Normal",
+      "price": "0.21"
+    },
+    {
+      "id": 8,
+      "name": "Black Rose Dragon",
+      "img": "https://ms.yugipedia.com//7/78/BlackRoseDragon-MGED-EN-PGR-1E.png",
+      "rarity": "Ultra Rare",
+      "price": "0.96"
+    },
+    {
+      "name": "Mirror Force",
+      "img": "https://ms.yugipedia.com//3/31/MirrorForce-MAMA-EN-URPR-1E.png",
+      "rarity": "Super Rare",
+      "price": "0.74",
+      "id": 9
+    },
+    {
+      "id": 10,
+      "name": "Silent Magician",
+      "img": "https://product-images.tcgplayer.com/122941.jpg",
+      "rarity": "Super Rare",
+      "price": "0,98"
+    },
+    {
+      "id": 13,
+      "name": "HalloHallo",
+      "img": "https://http2.mlstatic.com/D_NQ_NP_656614-MLA27007881873_032018-W.jpg",
+      "rarity": "Rare",
+      "price": "0,14"
+    },
+    {
+      "id": 14,
+      "name": "Dark Magician Girl",
+      "img": "https://cdn.shopify.com/s/files/1/0606/5494/4498/products/59d0de84-d79c-5ff2-9ad4-42f59e87d986_ba9af43c-f173-4c22-be56-d8828df73fd6_800x.png?v=1675950395",
+      "rarity": "Super Rare",
+      "price": "0,55"
+    }
+  ]
+}
